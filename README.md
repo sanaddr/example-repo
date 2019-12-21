@@ -1,11 +1,7 @@
-
-
-
 # Example Repository
-This is a Sample Repo , Hello World!!
+This is a Sample Repo , Hello Coders!!
 
-
-.md = MarkDown
+This is a Second Change
 
 
 
